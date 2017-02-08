@@ -95,9 +95,9 @@ public static int getThem() {
 
 
 
-        //int fragmentChoice = haveDefaultBunch() ? 11 : 1 ;
+        int fragmentChoice = haveDefaultBunch() ? 11 : 1 ;
 
-      //  replaceFragement(fragmentChoice);
+        replaceFragement(fragmentChoice);
 
        // setThemeActionBar();
     }

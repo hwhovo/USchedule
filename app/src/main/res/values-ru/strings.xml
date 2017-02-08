@@ -102,7 +102,7 @@
         <item>Суббота</item>
         <item>Воскресенье</item>
     </string-array>
-    <string-array name="hamarich_haytarar">
+    <string-array name="numerator">
         <item>Числитель</item>
         <item>Знаменатель</item>
     </string-array>

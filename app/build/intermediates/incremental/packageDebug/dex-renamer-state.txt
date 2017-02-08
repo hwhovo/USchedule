@@ -1,4 +1,7 @@
-#Wed Feb 08 20:25:55 AMT 2017
-base.0=C\:\\Users\\user\\Desktop\\Files\\Android\\last version\\Ushchedule2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Thu Feb 09 00:37:52 AMT 2017
+base.0=I\:\\USchedule\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a74d6d22af8e35a424f7b382783f7fb490fda94a
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=C\:\\Users\\user\\Desktop\\Files\\Android\\last version\\Ushchedule2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.1=I\:\\USchedule\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_16fe9427c5f4dcfc6bd64ae0921620d4455668f3\\classes.dex
+base.1=I\:\\USchedule\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_16fe9427c5f4dcfc6bd64ae0921620d4455668f3
+file.0=I\:\\USchedule\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a74d6d22af8e35a424f7b382783f7fb490fda94a\\classes.dex

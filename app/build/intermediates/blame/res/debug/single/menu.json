@@ -1,34 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\user\\Desktop\\android last version project\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
-        "source": "C:\\Users\\user\\Desktop\\android last version project\\Ushchedule2\\app\\src\\main\\res\\menu\\menu.xml"
+        "merged": "I:\\USchedule\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "I:\\USchedule\\app\\src\\main\\res\\menu\\menu.xml"
     },
     {
-        "merged": "I:\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_navigation.xml",
-        "source": "I:\\Ushchedule2\\app\\src\\main\\res\\menu\\menu_navigation.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\Files\\Android\\last version\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
-        "source": "C:\\Users\\user\\Desktop\\Files\\Android\\last version\\Ushchedule2\\app\\src\\main\\res\\menu\\menu.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_navigation.xml",
-        "source": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\src\\main\\res\\menu\\menu_navigation.xml"
-    },
-    {
-        "merged": "I:\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
-        "source": "I:\\Ushchedule2\\app\\src\\main\\res\\menu\\menu.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\Files\\Android\\last version\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_navigation.xml",
-        "source": "C:\\Users\\user\\Desktop\\Files\\Android\\last version\\Ushchedule2\\app\\src\\main\\res\\menu\\menu_navigation.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
-        "source": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\src\\main\\res\\menu\\menu.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\android last version project\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_navigation.xml",
-        "source": "C:\\Users\\user\\Desktop\\android last version project\\Ushchedule2\\app\\src\\main\\res\\menu\\menu_navigation.xml"
+        "merged": "I:\\USchedule\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_navigation.xml",
+        "source": "I:\\USchedule\\app\\src\\main\\res\\menu\\menu_navigation.xml"
     }
 ]

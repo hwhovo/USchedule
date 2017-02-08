@@ -21,7 +21,10 @@ import u.Schedule.entity.entities.Bunch;
 import u.Schedule.entity.entities.Univercity;
 import u.Schedule.entity.favouriteBunches;
 
+import java.lang.reflect.Array;
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
 import java.util.List;
 
 
@@ -166,6 +169,8 @@ private static int Them = 1;
 
     public void setSpinnerFacultyValue() {
         List<String> facs = new ArrayList<String>();
+
+
         facs.add(getResources().getString(R.string.FacultyEmpty));
         Spinner university = (Spinner) view.findViewById(R.id.univercitys);
 
@@ -184,6 +189,8 @@ private static int Them = 1;
     public String getSpinnerCourseValue() {
         Spinner faculty = (Spinner) view.findViewById(R.id.facultys);
         List<String> Courses = new ArrayList<>();
+        List<String> TempCourses = new ArrayList<>();
+
         Courses.add(getResources().getString(R.string.CourseEmpty));
         Spinner university = (Spinner) view.findViewById(R.id.univercitys);
 
@@ -191,9 +198,14 @@ private static int Them = 1;
             for(Bunch item:globals.BunchesList)
                 if(item.getFaculty().equals(faculty.getSelectedItem().toString())
                         && item.getUnivercity().equals(university.getSelectedItem().toString())
-                        && !Courses.contains(String.valueOf(item.getCourse()))) {
-                    Courses.add(String.valueOf(item.getCourse()));
+                        && !TempCourses.contains(String.valueOf(item.getCourse()))) {
+                    TempCourses.add(String.valueOf(item.getCourse()));
                 }
+        Collections.sort(TempCourses);
+
+            Courses.addAll(TempCourses);
+
+
 
         Spinner courses = (Spinner) view.findViewById(R.id.courses);
         ArrayAdapter<String> CourseAdapter = new ArrayAdapter<String>(this.getActivity(), android.R.layout.simple_spinner_item, Courses);

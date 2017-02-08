@@ -165,7 +165,7 @@ public class LessonFragment extends ListFragment {
     }
 
     private void HamarichValue() {
-        final String[] values = getResources().getStringArray(R.array.hamarich_haytarar);
+        final String[] values = getResources().getStringArray(R.array.numerator);
         Spinner spinner1 = (Spinner) view.findViewById(R.id.hamarich);
         ArrayAdapter<String> LTRadapter1 = new ArrayAdapter<String>(this.getActivity(), android.R.layout.simple_spinner_item, values);
         LTRadapter1.setDropDownViewResource(android.R.layout.simple_dropdown_item_1line);

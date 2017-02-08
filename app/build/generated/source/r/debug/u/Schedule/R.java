@@ -31,8 +31,8 @@ public final class R {
     }
     public static final class array {
         public static final int days=0x7f0b0000;
-        public static final int hamarich_haytarar=0x7f0b0001;
-        public static final int lessons=0x7f0b0002;
+        public static final int lessons=0x7f0b0001;
+        public static final int numerator=0x7f0b0002;
         public static final int pref_Theme_titles=0x7f0b0003;
         public static final int pref_language_frequency_titles=0x7f0b0004;
         public static final int pref_language_frequency_value=0x7f0b0005;

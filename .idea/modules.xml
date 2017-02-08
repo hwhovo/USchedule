@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Ushchedule2.iml" filepath="$PROJECT_DIR$/Ushchedule2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/USchedule.iml" filepath="$PROJECT_DIR$/USchedule.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

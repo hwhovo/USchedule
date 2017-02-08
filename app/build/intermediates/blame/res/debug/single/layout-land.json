@@ -1,34 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\user\\Desktop\\Files\\Android\\last version\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_lesson.xml",
-        "source": "C:\\Users\\user\\Desktop\\Files\\Android\\last version\\Ushchedule2\\app\\src\\main\\res\\layout-land\\fragment_lesson.xml"
+        "merged": "I:\\USchedule\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_main.xml",
+        "source": "I:\\USchedule\\app\\src\\main\\res\\layout-land\\fragment_main.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_lesson.xml",
-        "source": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\src\\main\\res\\layout-land\\fragment_lesson.xml"
-    },
-    {
-        "merged": "I:\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_lesson.xml",
-        "source": "I:\\Ushchedule2\\app\\src\\main\\res\\layout-land\\fragment_lesson.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\android last version project\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_lesson.xml",
-        "source": "C:\\Users\\user\\Desktop\\android last version project\\Ushchedule2\\app\\src\\main\\res\\layout-land\\fragment_lesson.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\android last version project\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_main.xml",
-        "source": "C:\\Users\\user\\Desktop\\android last version project\\Ushchedule2\\app\\src\\main\\res\\layout-land\\fragment_main.xml"
-    },
-    {
-        "merged": "I:\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_main.xml",
-        "source": "I:\\Ushchedule2\\app\\src\\main\\res\\layout-land\\fragment_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\Files\\Android\\last version\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_main.xml",
-        "source": "C:\\Users\\user\\Desktop\\Files\\Android\\last version\\Ushchedule2\\app\\src\\main\\res\\layout-land\\fragment_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_main.xml",
-        "source": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\src\\main\\res\\layout-land\\fragment_main.xml"
+        "merged": "I:\\USchedule\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_lesson.xml",
+        "source": "I:\\USchedule\\app\\src\\main\\res\\layout-land\\fragment_lesson.xml"
     }
 ]

@@ -1,114 +1,30 @@
 [
     {
-        "merged": "C:\\Users\\user\\Desktop\\Files\\Android\\last version\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_search_white_24dp.png",
-        "source": "C:\\Users\\user\\Desktop\\Files\\Android\\last version\\Ushchedule2\\app\\src\\main\\res\\drawable-hdpi\\ic_search_white_24dp.png"
+        "merged": "I:\\USchedule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_settings_language.png",
+        "source": "I:\\USchedule\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_language.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\android last version project\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_settings_language.png",
-        "source": "C:\\Users\\user\\Desktop\\android last version project\\Ushchedule2\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_language.png"
+        "merged": "I:\\USchedule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_star.png",
+        "source": "I:\\USchedule\\app\\src\\main\\res\\drawable-hdpi\\ic_star.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_settings_language.png",
-        "source": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_language.png"
+        "merged": "I:\\USchedule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_settings_notification.png",
+        "source": "I:\\USchedule\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_notification.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\android last version project\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_information_outline.png",
-        "source": "C:\\Users\\user\\Desktop\\android last version project\\Ushchedule2\\app\\src\\main\\res\\drawable-hdpi\\ic_information_outline.png"
+        "merged": "I:\\USchedule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_expand_more_black_18dp.png",
+        "source": "I:\\USchedule\\app\\build\\intermediates\\exploded-aar\\com.weiwangcn.betterspinner\\library-material\\1.1.0\\res\\drawable-hdpi\\ic_expand_more_black_18dp.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_information_outline.png",
-        "source": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\src\\main\\res\\drawable-hdpi\\ic_information_outline.png"
+        "merged": "I:\\USchedule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_information_outline.png",
+        "source": "I:\\USchedule\\app\\src\\main\\res\\drawable-hdpi\\ic_information_outline.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\Files\\Android\\last version\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_expand_more_black_18dp.png",
-        "source": "C:\\Users\\user\\Desktop\\Files\\Android\\last version\\Ushchedule2\\app\\build\\intermediates\\exploded-aar\\com.weiwangcn.betterspinner\\library-material\\1.1.0\\res\\drawable-hdpi\\ic_expand_more_black_18dp.png"
+        "merged": "I:\\USchedule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_sync_black_24dp.png",
+        "source": "I:\\USchedule\\app\\src\\main\\res\\drawable-hdpi\\ic_sync_black_24dp.png"
     },
     {
-        "merged": "I:\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_search_white_24dp.png",
-        "source": "I:\\Ushchedule2\\app\\src\\main\\res\\drawable-hdpi\\ic_search_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\Files\\Android\\last version\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_information_outline.png",
-        "source": "C:\\Users\\user\\Desktop\\Files\\Android\\last version\\Ushchedule2\\app\\src\\main\\res\\drawable-hdpi\\ic_information_outline.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_search_white_24dp.png",
-        "source": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\src\\main\\res\\drawable-hdpi\\ic_search_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_sync_black_24dp.png",
-        "source": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\src\\main\\res\\drawable-hdpi\\ic_sync_black_24dp.png"
-    },
-    {
-        "merged": "I:\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_expand_more_black_18dp.png",
-        "source": "I:\\Ushchedule2\\app\\build\\intermediates\\exploded-aar\\com.weiwangcn.betterspinner\\library-material\\1.1.0\\res\\drawable-hdpi\\ic_expand_more_black_18dp.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\Files\\Android\\last version\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_settings_notification.png",
-        "source": "C:\\Users\\user\\Desktop\\Files\\Android\\last version\\Ushchedule2\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_notification.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\Files\\Android\\last version\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_settings_language.png",
-        "source": "C:\\Users\\user\\Desktop\\Files\\Android\\last version\\Ushchedule2\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_language.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\android last version project\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_settings_notification.png",
-        "source": "C:\\Users\\user\\Desktop\\android last version project\\Ushchedule2\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_notification.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\android last version project\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_star.png",
-        "source": "C:\\Users\\user\\Desktop\\android last version project\\Ushchedule2\\app\\src\\main\\res\\drawable-hdpi\\ic_star.png"
-    },
-    {
-        "merged": "I:\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_settings_language.png",
-        "source": "I:\\Ushchedule2\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_language.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_settings_notification.png",
-        "source": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_notification.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\android last version project\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_search_white_24dp.png",
-        "source": "C:\\Users\\user\\Desktop\\android last version project\\Ushchedule2\\app\\src\\main\\res\\drawable-hdpi\\ic_search_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\Files\\Android\\last version\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_sync_black_24dp.png",
-        "source": "C:\\Users\\user\\Desktop\\Files\\Android\\last version\\Ushchedule2\\app\\src\\main\\res\\drawable-hdpi\\ic_sync_black_24dp.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\android last version project\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_expand_more_black_18dp.png",
-        "source": "C:\\Users\\user\\Desktop\\android last version project\\Ushchedule2\\app\\build\\intermediates\\exploded-aar\\com.weiwangcn.betterspinner\\library-material\\1.1.0\\res\\drawable-hdpi\\ic_expand_more_black_18dp.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_expand_more_black_18dp.png",
-        "source": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\build\\intermediates\\exploded-aar\\com.weiwangcn.betterspinner\\library-material\\1.1.0\\res\\drawable-hdpi\\ic_expand_more_black_18dp.png"
-    },
-    {
-        "merged": "I:\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_settings_notification.png",
-        "source": "I:\\Ushchedule2\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_notification.png"
-    },
-    {
-        "merged": "I:\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_star.png",
-        "source": "I:\\Ushchedule2\\app\\src\\main\\res\\drawable-hdpi\\ic_star.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\Files\\Android\\last version\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_star.png",
-        "source": "C:\\Users\\user\\Desktop\\Files\\Android\\last version\\Ushchedule2\\app\\src\\main\\res\\drawable-hdpi\\ic_star.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\android last version project\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_sync_black_24dp.png",
-        "source": "C:\\Users\\user\\Desktop\\android last version project\\Ushchedule2\\app\\src\\main\\res\\drawable-hdpi\\ic_sync_black_24dp.png"
-    },
-    {
-        "merged": "I:\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_sync_black_24dp.png",
-        "source": "I:\\Ushchedule2\\app\\src\\main\\res\\drawable-hdpi\\ic_sync_black_24dp.png"
-    },
-    {
-        "merged": "I:\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_information_outline.png",
-        "source": "I:\\Ushchedule2\\app\\src\\main\\res\\drawable-hdpi\\ic_information_outline.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_star.png",
-        "source": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\src\\main\\res\\drawable-hdpi\\ic_star.png"
+        "merged": "I:\\USchedule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_search_white_24dp.png",
+        "source": "I:\\USchedule\\app\\src\\main\\res\\drawable-hdpi\\ic_search_white_24dp.png"
     }
 ]

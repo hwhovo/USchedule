@@ -102,7 +102,7 @@
         <item>Saturday</item>
         <item>Sunday</item>
     </string-array>
-    <string-array name="hamarich_haytarar">
+    <string-array name="numerator">
         <item>Numerator</item>
         <item>Denominator</item>
     </string-array>

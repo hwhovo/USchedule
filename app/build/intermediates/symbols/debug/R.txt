@@ -16,8 +16,8 @@ int anim design_snackbar_in 0x7f05000e
 int anim design_snackbar_out 0x7f05000f
 int animator design_appbar_state_list_animator 0x7f060000
 int array days 0x7f0b0000
-int array hamarich_haytarar 0x7f0b0001
-int array lessons 0x7f0b0002
+int array lessons 0x7f0b0001
+int array numerator 0x7f0b0002
 int array pref_Theme_titles 0x7f0b0003
 int array pref_language_frequency_titles 0x7f0b0004
 int array pref_language_frequency_value 0x7f0b0005

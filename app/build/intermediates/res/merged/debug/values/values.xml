@@ -10,15 +10,15 @@
         <item>Saturday</item>
         <item>Sunday</item>
     </string-array>
-    <string-array name="hamarich_haytarar">
-        <item>Numerator</item>
-        <item>Denominator</item>
-    </string-array>
     <string-array name="lessons">
         <item>Անգլերեն</item>
         <item>Ռուսերեն</item>
         <item>Մաթեմատիկա</item>
         <item>Ֆիզիկա</item>
+    </string-array>
+    <string-array name="numerator">
+        <item>Numerator</item>
+        <item>Denominator</item>
     </string-array>
     <string-array name="pref_Theme_titles">
         <item>Green</item>

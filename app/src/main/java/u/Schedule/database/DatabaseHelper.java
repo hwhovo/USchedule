@@ -111,7 +111,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
                 "LEFT JOIN Bunches ON Lessons.BunchId = Bunches.Id " +
                 "LEFT JOIN Faculties ON Bunches.facultyId = Faculties.ID " +
                 "LEFT JOIN Universities ON Universities.Id = Faculties.UniversityId " +
-                "WHERE LessonTimeId = 4) as Time4 ON Time4.LessonId = Lessons.Id ", null);
+                "WHERE LessonTimeId = 4) as Time4 ON Time4.LessonId = Lessons.Id  WHERE [Weekday] is not null ", null);
         cursor.moveToFirst();
 
         while (!cursor.isAfterLast()){
