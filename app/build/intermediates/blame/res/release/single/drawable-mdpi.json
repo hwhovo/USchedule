@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_information_outline.png",
+        "source": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\src\\main\\res\\drawable-mdpi\\ic_information_outline.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_sync_black_24dp.png",
+        "source": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\src\\main\\res\\drawable-mdpi\\ic_sync_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_settings_language.png",
+        "source": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_language.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_expand_more_black_18dp.png",
+        "source": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\build\\intermediates\\exploded-aar\\com.weiwangcn.betterspinner\\library-material\\1.1.0\\res\\drawable-mdpi\\ic_expand_more_black_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_settings_notification.png",
+        "source": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_star.png",
+        "source": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\src\\main\\res\\drawable-mdpi\\ic_star.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_search_white_24dp.png",
+        "source": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\src\\main\\res\\drawable-mdpi\\ic_search_white_24dp.png"
+    }
+]

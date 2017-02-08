@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_settings.png",
+        "source": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_home_variant.png",
+        "source": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_home_variant.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_exclamation.png",
+        "source": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_exclamation.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_backup_restore.png",
+        "source": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_backup_restore.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_share_variant.png",
+        "source": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_share_variant.png"
+    }
+]

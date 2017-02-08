@@ -1,0 +1,116 @@
+<resources>
+    <!-- Navigation Items Strings -->
+    <string name="app_name">USchedule</string>
+    <string name="menu_item_settings">Կարգավորումներ</string>
+    <string name="about">Ծրագրի Մասին</string>
+    <string name="view_navigation_open">Open</string>
+    <string name="view_navigation_close">Close</string>
+    <string name="menu_item_home">Նախնական Էջ</string>
+    <string name="menu_item_update">Թարմացում</string>
+    <string name="menu_item_share">Տարածել</string>
+    <string name="titleSettings">Կարգավորումներ</string>
+    <string name="titleAbout">Ծրագրի Մասին</string>
+    <string name="titleFavorite">Ընտրյալները</string>
+    <string name="title_activity_settings">Կարգավորումներ</string>
+    <string name="saved_language_default">3</string>
+    <string name="communicate">Հաղորդակցվել</string>
+
+
+    <string name="dialog_message">https://www.fb.com</string>
+    <!--toolbarItem-->
+    <string name="Feedback">Հետադարձ կապ</string>
+    <string name="About">Ծրագրի Մասին</string>
+
+    <!--Main Components  -->
+    <string name="emptyLesson">Դաս չկա</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">Հիմնական</string>
+
+    <string name="pref_title_orientation">Էկրանի դիրքը</string>
+
+
+    <string name="pref_select_theme">Ընտրել ոճը</string>
+    <string-array name="pref_Theme_titles">
+        <item>Կանաչ</item>
+        <item>Կարմիր</item>
+        <item>Կապույտ</item>
+    </string-array>
+
+    <string-array name="pref_language_list_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <!-- Example settings for Language -->
+    <string name="pref_header_data_sync">Լեզու</string>
+
+    <string name="pref_title_sync_frequency">Լեզու</string>
+    <string-array name="pref_language_frequency_titles">
+        <item>Սարքի Լեզուն</item>
+        <item>Անգլերեն</item>
+        <item>Ռուսերեն</item>
+        <item>Հայերեն</item>
+    </string-array>
+    <string-array name="pref_language_frequency_value">
+        <item>default</item>
+        <item>en</item>
+        <item>ru</item>
+        <item>hy</item>
+    </string-array>
+
+    <string name="LangSummary">Հայերեն (Անհրաժեշտ է վերսկսել ծրագիրը)</string>
+    <string name="Restart">Թարմացնել</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Ծանուցում</string>
+
+    <string name="pref_title_new_message_notifications">Ստանալ ծանուցումներ</string>
+
+    <string name="pref_title_ringtone">Ձայն</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Վիբրացիա</string>
+
+    <!-- Lessons Fragments Strings -->
+    <string name="AddToFavorits">Ավելացնել Ընտրյալներին</string>
+    <string name="SelectPrimary">Ընտրել որպես հիմնական խումբ</string>
+    <string name="About_Context">"Ծրագրի Տարբերակը  1.2.2 "</string>
+    <string name="About_Context_Facebook">"Facebook-ում մեր էջը: \n"</string>
+    <string name="Uschedule_FeedBack_title">Uschedule Feedback</string>
+    <string name="Debug_Info_title">Debug-infos:</string>
+    <string name="Share_IN">"Տարածել՝: "</string>
+    <string name="Send_email">Ուղարկել Նամակ</string>
+    <string-array name="lessons">
+        <item>Անգլերեն</item>
+        <item>Ռուսերեն</item>
+        <item>Մաթեմատիկա</item>
+        <item>Ֆիզիկա</item>
+    </string-array>
+    <string-array name="days">
+        <item>Այսօր</item>
+        <item>Երկուշաբթի</item>
+        <item>Երեքշաբթի</item>
+        <item>Չորեքշաբթի</item>
+        <item>Հինգշաբթի</item>
+        <item>Ուրբաթ</item>
+        <item>Շաբաթ</item>
+        <item>Կիրակի</item>
+    </string-array>
+    <string-array name="hamarich_haytarar">
+        <item>Համարիչ</item>
+        <item>Հայտարար</item>
+
+    </string-array>
+
+    <!-- Home Fragments Strings -->
+    <string name="UniversityEmpty">Համալսարան</string>
+    <string name="FacultyEmpty">Ֆակուլտետ</string>
+    <string name="CourseEmpty">Կուրս</string>
+    <string name="BunchEmpty">Խումբ</string>
+    <string name="select">Ընտրել</string>
+
+</resources>

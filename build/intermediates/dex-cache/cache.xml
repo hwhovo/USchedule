@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="53567c6c82ae989ca04de968f7a598ec1f956f0c">
+        <dex dex="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\pre-dexed\debug\instant-run_9800d11554e5b366f908b570c54d1e277ed51762.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_1294f4190f929035476fdba3cc220f1524e92521.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.8.0_01ff38a1cd3656344cceddb60c8b46f2e92441fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_b428f30bf3ec470f7ce22d90d77461d719904db1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.8.0_b8ae458673d59512a00ea7944918eb73bc67ee6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_ab9d6a4de10e36b3f25a3c2515917bccf9e42832.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_49032ca4f10576e2aaff3c449542333d77c4f93c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_0ffc668800307b78830f59c45bf376e95ab79988.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.8.0_6c6494487b4c4d5e3500a5ea9d963afcb48d03ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_b9cf9430f014bb33073011a0a733fac901212043.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.1_5ba81a1c6e64a9afb485cbad07a23a1104da7e65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_19a6e4908674ccb973cb79febc667e90098b1001.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.8.0_92d2e3b965a4aed8b48082e1fdd0f8af680330cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\exploded-aar\com.weiwangcn.betterspinner\library-material\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8d8c5463a1a50691e2cf66cd7ce4751c8545b584">
+        <dex dex="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\pre-dexed\debug\com.weiwangcn.betterspinner-library-material-1.1.0_cb0b009c9a0eae6f94d602aaa72e6690c1e69c3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_7712bca6820d2aa4a45a73f033dec07d5886accb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\pre-dexed\debug\library-2.4.0_7dcc3ac4a30f386c51d9582e4504072021db0ad0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_26b4a1c054469f7efd7e8d632cf7cbd7cf33eccb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3463353f73cb0b0062ceea5540aee61474de5d8d">
+        <dex dex="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_9c8c25079dcbbc549cff9a36170a39964975c8a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_5df595fc0f0c5b1c102c7f8f4199b95c9ad95df9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_2d8f072c80ee4a0de797bd9b89c01b60a19f6032.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_127d521ad9faa2c3f0e78819757ffc2a2d881334.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.8.0_5f06238f8b5c19807bd385a52be5d4c0e62ce245.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\exploded-aar\com.rengwuxian.materialedittext\library\2.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="052802ed198178e7133de387fbc87d3f2998482a">
+        <dex dex="C:\Users\user\Desktop\Files\Android\last version\Ushchedule2\app\build\intermediates\pre-dexed\debug\com.rengwuxian.materialedittext-library-2.0.3_aa33f8d68aa8725ce3514ec89196e91f353c4347.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi\\ic_settings_notification.png",
+        "source": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_settings_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi\\ic_information_outline.png",
+        "source": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_information_outline.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi\\ic_settings_language.png",
+        "source": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_settings_language.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi\\ic_search_white_24dp.png",
+        "source": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_search_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi\\ic_sync_black_24dp.png",
+        "source": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_sync_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi\\ic_star.png",
+        "source": "C:\\Users\\user\\Desktop\\Ushchedule2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_star.png"
+    }
+]

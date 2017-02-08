@@ -1,0 +1,117 @@
+<resources>
+    <!-- Navigation Items Strings -->
+    <string name="menu_item_settings">Настройки</string>
+    <string name="about">О программе</string>
+    <string name="view_navigation_open">Open</string>
+    <string name="view_navigation_close">Close</string>
+    <string name="menu_item_home">Главная</string>
+    <string name="menu_item_update">Обновить</string>
+    <string name="menu_item_share">Поделиться</string>
+    <string name="titleSettings">Настройки</string>
+    <string name="saved_language_default">3</string>
+
+    <string name="titleAbout">О программе</string>
+    <string name="titleFavorite">Избранное</string>
+    <string name="communicate">Общаться</string>
+
+
+    <string name="dialog_message">https://www.fb.com</string>
+            <!--toolbarItem-->
+        <string name="Feedback">Обратная связь</string>
+        <string name="About">О программе</string>
+
+
+    <string name="emptyLesson">Нет урока</string>
+
+        <!--SettingsActivity-->
+    <string name="title_activity_settings">Настройки</string>
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">Первичная</string>
+
+    <string name="pref_title_orientation">Включить Ориентация</string>
+
+
+    <string name="pref_select_theme">Выбрать тему</string>
+    <string-array name="pref_Theme_titles">
+        <item>Зеленый</item>
+        <item>Красный</item>
+        <item>Синий</item>
+    </string-array>
+
+    <string-array name="pref_language_list_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <!-- Example settings for Language -->
+    <string name="pref_header_data_sync">Язык</string>
+
+    <string name="pref_title_sync_frequency">Выбрать Язык</string>
+    <string-array name="pref_language_frequency_titles">
+        <item>Язык Устройсва</item>
+        <item>Английский</item>
+        <item>Русский</item>
+        <item>Армянский</item>
+    </string-array>
+    <string-array name="pref_language_frequency_value">
+        <item>default</item>
+        <item>en</item>
+        <item>ru</item>
+        <item>hy</item>
+
+    </string-array>
+
+    <string name="LangSummary">Русский (Необходимо перезапустить приложение для принятия изменений.)</string>
+    <string name="Restart">Перезапустиь</string>
+
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Уведомления</string>
+
+    <string name="pref_title_new_message_notifications">Получить Уведомления</string>
+
+    <string name="pref_title_ringtone">Мелодия</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Вибрация</string>
+
+    <!-- Lessons Fragments Strings -->
+    <string name="AddToFavorits">Добавить в избранное</string>
+    <string name="SelectPrimary">Выберите основную группу</string>
+    <string name="About_Context">"Версия программы 1.2.2 "</string>
+    <string name="About_Context_Facebook">" Страница в Facebook: \n"</string>
+    <string name="Uschedule_FeedBack_title">Uschedule Feedback</string>
+    <string name="Debug_Info_title">Debug-infos:</string>
+    <string name="Share_IN">"Поделиться: "</string>
+    <string name="Send_email">Отправить Письмо</string>
+    <string-array name="lessons">
+        <item>Անգլերեն</item>
+        <item>Ռուսերեն</item>
+        <item>Մաթեմատիկա</item>
+        <item>Ֆիզիկա</item>
+    </string-array>
+    <string-array name="days">
+        <item>Сегодня</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+    </string-array>
+    <string-array name="hamarich_haytarar">
+        <item>Числитель</item>
+        <item>Знаменатель</item>
+    </string-array>
+    <string name="app_name">USchedule</string>
+    <!-- Home Fragments Strings -->
+    <string name="UniversityEmpty">Университет</string>
+    <string name="FacultyEmpty">Факультет</string>
+    <string name="CourseEmpty">Курс</string>
+    <string name="BunchEmpty">Группа</string>
+    <string name="select">Выбрать</string>
+
+</resources>

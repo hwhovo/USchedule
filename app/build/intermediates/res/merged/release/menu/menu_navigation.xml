@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single" android:id="@+id/manuItems">
+            <item
+                android:id="@+id/HomeItem"
+                android:title="@string/menu_item_home"
+                android:orderInCategory="0"
+                android:icon="@mipmap/ic_home_variant"
+                />
+        <item
+            android:id="@+id/FavoriteItem"
+            android:title="@string/titleFavorite"
+            android:orderInCategory="0"
+            android:icon="@drawable/ic_star"
+            />
+    </group>
+    <item android:title="@string/communicate" >
+        <menu>
+            <item
+                android:id="@+id/ShareItem"
+                android:title="@string/menu_item_share"
+                android:icon="@mipmap/ic_share_variant"
+                />
+
+            <item
+                android:id="@+id/Update"
+                android:title="@string/menu_item_update"
+                android:icon="@mipmap/ic_backup_restore"
+                />
+
+            <item
+                android:id="@+id/SettingsItem"
+                android:title="@string/menu_item_settings"
+                android:icon="@mipmap/ic_settings"
+             />
+        </menu>
+    </item>
+
+
+
+</menu>

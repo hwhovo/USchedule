@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_marginTop="60dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/linearLayout2"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+
+        <Switch
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/SelectPrimary"
+            android:id="@+id/select_bunch"
+            android:layout_gravity="center_horizontal"
+            android:textOn="Ընտրել"
+            android:textOff="Չեղարկել"
+            android:textColor="#131313"
+            android:layout_alignTop="@+id/linearLayout"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp" />
+
+        <CheckBox
+            tools:targetApi="m"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/AddToFavorits"
+            android:layout_marginTop="@dimen/activity_horizontal_margin"
+            android:id="@+id/favoriteChacbox"
+            android:checked="false"
+            android:allowUndo="false"
+            android:button="@null"
+            android:drawableRight="?android:attr/listChoiceIndicatorMultiple"
+            android:layout_gravity="right"
+            android:paddingRight="16dp"
+            android:paddingLeft="16dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@+id/linearLayout2"
+        android:weightSum="3"
+        android:id="@+id/linearLayout3">
+
+        <Spinner
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/days"
+            android:layout_weight="1"
+            android:padding="@dimen/abc_button_padding_horizontal_material" />
+
+        <Spinner
+            android:layout_marginTop="@dimen/activity_horizontal_margin"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/hamarich"
+            android:layout_weight="1"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Large Text"
+            android:id="@+id/weekdayNumber"
+            android:layout_weight="1"
+            android:textAlignment="gravity"
+            android:phoneNumber="false"
+            android:gravity="center"
+            android:layout_marginTop="15dp" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/linearLayout3"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:id="@+id/scrollView" >
+
+        <ListView
+            android:layout_width="match_parent"
+            android:scrollbars="vertical"
+            android:layout_height="match_parent"
+            android:id="@+id/android:list"
+            android:layout_marginLeft="10dp" />
+    </LinearLayout>
+
+
+</RelativeLayout>

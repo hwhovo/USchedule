@@ -1,0 +1,58 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="u.Schedule.Fragments.HomeFragment"
+    android:scrollbars="vertical"
+    android:orientation="vertical">
+
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/univercitys"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_weight="1"
+        android:layout_marginTop="61dp"
+        android:layout_toStartOf="@+id/button" />
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/facultys"
+        android:layout_weight="1"
+        android:layout_alignTop="@+id/univercitys"
+        android:layout_toEndOf="@+id/button" />
+
+
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/courses"
+        android:layout_below="@+id/facultys"
+        android:layout_alignParentStart="true"
+        android:layout_weight="1"
+        android:layout_toStartOf="@+id/button" />
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:id="@+id/bunches"
+        android:layout_alignBottom="@+id/courses"
+        android:layout_toEndOf="@+id/button" />
+
+
+
+    <Button
+        android:layout_width="88dp"
+        android:layout_height="32dp"
+        android:layout_marginBottom="12dp"
+        android:id="@+id/button"
+        android:layout_gravity="center"
+        android:background="@drawable/button"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"/>
+</LinearLayout>
