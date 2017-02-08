@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Feb 09 00:37:52 AMT 2017
+#Thu Feb 09 00:49:12 AMT 2017
 210.set=ANDROID_RESOURCE
 282.file=I\:\\USchedule\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\common_google_signin_btn_icon_light.xml
 14.set=ANDROID_RESOURCE

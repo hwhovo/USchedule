@@ -70,7 +70,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="c7c177d2dec61d7dc9b3e9d9ef4f965b45e8753d">
+        sha1="b4d8bb988c7a23ffa14e3a988c4ffe2881043ade">
         <dex dex="I:\USchedule\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_16fe9427c5f4dcfc6bd64ae0921620d4455668f3\classes.dex" />
     </item>
     <item
@@ -205,7 +205,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="b53970ca2fded156be947cdbe2e72f40a4cb4e47">
+        sha1="8ce203db1f07f1a14856beb71af13c52c7e6e0dc">
         <dex dex="I:\USchedule\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a74d6d22af8e35a424f7b382783f7fb490fda94a\classes.dex" />
     </item>
 

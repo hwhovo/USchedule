@@ -1,11 +1,11 @@
 [
     {
-        "merged": "I:\\USchedule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_settings_language.png",
-        "source": "I:\\USchedule\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_language.png"
-    },
-    {
         "merged": "I:\\USchedule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_star.png",
         "source": "I:\\USchedule\\app\\src\\main\\res\\drawable-hdpi\\ic_star.png"
+    },
+    {
+        "merged": "I:\\USchedule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_settings_language.png",
+        "source": "I:\\USchedule\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_language.png"
     },
     {
         "merged": "I:\\USchedule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_settings_notification.png",
