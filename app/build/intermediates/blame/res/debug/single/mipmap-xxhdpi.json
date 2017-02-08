@@ -1,11 +1,11 @@
 [
     {
-        "merged": "I:\\USchedule\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
-        "source": "I:\\USchedule\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "I:\\USchedule\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_backup_restore.png",
         "source": "I:\\USchedule\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_backup_restore.png"
+    },
+    {
+        "merged": "I:\\USchedule\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "I:\\USchedule\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
         "merged": "I:\\USchedule\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_share_variant.png",

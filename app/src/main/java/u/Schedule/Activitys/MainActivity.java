@@ -80,6 +80,7 @@ public static int getThem() {
 
        setTheme(R.style.AppTheme);
 
+
         setThemeActionBar();
         if (savedInstanceState == null) {
             getSupportFragmentManager().beginTransaction()

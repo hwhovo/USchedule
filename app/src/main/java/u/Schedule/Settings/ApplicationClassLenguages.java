@@ -9,6 +9,8 @@ import android.preference.PreferenceManager;
 
 import java.util.Locale;
 
+import u.Schedule.entity.globals;
+
 public class ApplicationClassLenguages extends Application {
 
     private SharedPreferences preferences;

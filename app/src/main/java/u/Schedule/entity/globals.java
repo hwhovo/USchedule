@@ -36,4 +36,5 @@ public class globals {
     public static int g_Current_Bunch_LessonCount;
     public static boolean g_OrintationIsOn = false;
     public static int color = android.R.color.holo_orange_dark;
+    public static boolean isLanguageChanged = false;
 }
